@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Tobias
 
-<!--
-**kamatoo/kamatoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer building modern web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Frontend
+- Vue.js
+- React
+- TypeScript
+- Tailwind CSS
+- HTML & CSS
+
+### Backend
+- Python (FastAPI)
+- Java (Spring Boot basics)
+
+### Database
+- MySQL
+- PostgreSQL
