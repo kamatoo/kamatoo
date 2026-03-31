@@ -1,16 +1,18 @@
-# 👋 Hi, I'm Tobias
-Fullstack Developer building modern web applications.
----
-## 🚀 Tech Stack
+# Hi, I'm Tobias
+
+Fullstack Developer focused on building modern, responsive web applications with clean architecture and great user experiences.
+
+## Tech Stack
 ### Frontend
-- Vue.js
 - React
+- Vue.js
 - TypeScript
-- Tailwind CSS
-- HTML & CSS
+- tailwindcss
+- HTML
+- CSS
+
 ### Backend
-- Python (FastAPI)
-- Java (Spring Boot basics)
-### Database
-- MySQL
-- PostgreSQL
+- Python
+- FastAPI
+- Java
+- Spring Boot basics
