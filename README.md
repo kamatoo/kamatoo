@@ -1,9 +1,9 @@
 # Hey, I'm Tobias 👋
 
-[![Website](https://img.shields.io/badge/kamatostudios.at-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kamatostudios.at)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-kügerl/)
+[![Website](https://img.shields.io/badge/kamatostudios.at-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kamatostudios.at) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-kügerl/)
 
 Fullstack Developer from Austria 🇦🇹 — building modern web apps with clean architecture and great user experiences.
+
 ---
 
 ## 🚀 Tech Stack
